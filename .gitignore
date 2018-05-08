@@ -1,0 +1,13 @@
+bin
+dist
+include
+lib
+local
+*.pyc
+*.egg-info
+man
+**/*.pyc
+*.egg-info
+sample.data
+pip-selfcheck.json
+share
